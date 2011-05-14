@@ -3,3 +3,4 @@
 *.db
 build/*
 dist/*
+django_masked_forms.egg-info/*
