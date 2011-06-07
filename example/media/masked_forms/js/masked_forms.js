@@ -1,5 +1,5 @@
 $(document).ready(function(){
-   $('.masked').each(function(){
+   $('input.masked').each(function(){
        $(this).mask($(this).attr('mask'));
    });
 });
